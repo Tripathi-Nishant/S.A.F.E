@@ -42,8 +42,8 @@ Built for **Ghaziabad**, scalable to **any smart city** across the world 🌐.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/safe-route-ai.git
-cd safe-route-ai
+git clone https://github.com/Tripathi-Nishant/S.A.F.E.git
+cd S.A.F.E
 
 # Install dependencies
 pip install -r requirements.txt
